@@ -1,4 +1,4 @@
-# AWS Three-Tier Architecture
+# AWS Three-Tier Architecture Short Documentation
 
 A production-grade, highly available three-tier web application architecture deployed on AWS — built for scalability, fault tolerance, and security.
 
@@ -80,6 +80,4 @@ This architecture separates the application into three logical and physical tier
 
 ## Author
 
-**Khem Bahadur Singh**  
-Cloud & DevOps Engineer  
-GitHub: [@kbsingh10](https://github.com/kbsingh10)
+**Kb Singh**
